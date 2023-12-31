@@ -1,5 +1,4 @@
 # DISTANCE-BETWEEN-TWO-POINTS
-
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
@@ -18,7 +17,6 @@ End the program
  #Program to find the distance between two points.
 #Developed by: veeraragavan v
 #RegisterNumber:23004739
-
 import math
 def distance(x1,y1,x2,y2):
     dx=x2-x1
@@ -32,11 +30,7 @@ y2=6
 d=distance(x1,y1,x2,y2)
 print(round(d,2))
 ``` 
-
-
 ### OUTPUT:
-
 ![output](output.jpg)
-
 ### RESULT:
 Thus the distance between two points are successfully executed
